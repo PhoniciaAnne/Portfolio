@@ -1,0 +1,16 @@
+.class{
+    border-radius: 50%;
+}
+.glassbg{
+    /* background-color: rgba(255, 255, 255, 0.456) !important;   */
+    /* background: rgba(0, 0, 0, 1);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(20px);
+-webkit-backdrop-filter: blur(20px);
+border: 1px 50% solid rgba(0, 0, 0, 1); */
+background: -webkit-linear-gradient(-90.13deg, #886c881b 1.9%, #877787 97.5%);
+}
+.onhove:hover{
+    background: -webkit-linear-gradient(-90.13deg, #3f4152 1.9%, #bf61ff 97.5%);
+}

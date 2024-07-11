@@ -1,0 +1,41 @@
+.compalt{
+    /* width:50vh;
+    height:40vh;
+    background-color: rgb(149, 0, 255);
+    border-radius: 10% 10% 50% 50%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* overflow: hidden; */
+}
+
+.outalt{
+    padding-top: 40vh;
+    padding-left: 40vw;
+    height:100vh;
+    width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dp{
+    width:35vw ;
+    margin-right: 3vw;
+}
+.Hero-top{
+    margin-top: 10vh !important;
+}
+.textCol{
+    color:rgb(119, 163, 187);
+}
+@media(max-width:800px)
+{
+    .dp {
+        width: 88vw;
+        margin-right: 3vw;
+    }
+    .outalt{
+        padding-left: 0 !important;
+        height: 90vh !important;
+    }
+}
