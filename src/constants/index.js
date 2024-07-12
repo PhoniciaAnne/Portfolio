@@ -29,7 +29,7 @@ import {
   pytorch,
   Sql,
   linux,
-  llama,
+  python,
   chat,
 
   iq,
@@ -52,6 +52,7 @@ import {
   quad,
   oil,
   hh,
+  
 
   
   
@@ -99,8 +100,8 @@ const services = [
     icon: backend,
   },
   {
-    title: "Deep Learning",
-    icon: blockchain,
+    title: "python Developer",
+    icon: python,
   },
 ];
 
@@ -187,8 +188,8 @@ const technologies = [
     icon: chat,
   },
   {
-    name: "Llama3",
-    icon: llama,
+    name: "Python",
+    icon: python,
   },
 ];
 
