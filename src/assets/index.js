@@ -53,6 +53,7 @@ import llama from "./llama.jpeg";
 import linux from "./linux.jpeg";
 import Sql from "./Sql.png";
 import pytorch from "./pytorch.png";
+import python from "./python.png";
 import fastapi from "./fastapi.png";
 import idea from "./idea.png";
  
@@ -103,7 +104,7 @@ export {
   critiq,
   typescript,
   threejs,
- 
+  python,
 
   Sql,
  
