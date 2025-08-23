@@ -29,8 +29,8 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 textCol`}>
             
-          I am passionate about applying machine learning and artificial intelligence <br className='sm:block hidden' />
-          to develop innovative solutions and solve complex challenges.
+         I am passionate about applying machine learning, backend engineering, and cloud technologies to design scalable systems, automate workflows <br className='sm:block hidden' />
+         , and develop innovative solutions that solve complex real-world challenges.
 
 
 
