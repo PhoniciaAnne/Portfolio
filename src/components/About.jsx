@@ -142,7 +142,7 @@ const particlesLoaded = useCallback(async container => {
       
 
     A results-driven software engineer with hands-on experience in backend development, cloud computing, and AI-powered solutions. Proficient in building and optimizing REST/GraphQL APIs, SQL/NoSQL databases, and CI/CD pipelines on AWS, with proven success in reducing latency, automating testing, and enhancing system scalability. Experienced in developing full-stack applications, chatbots, and NLP-driven systems, and recognized in multiple hackathons and ML challenges for delivering innovative, high-performance solutions.      </motion.p>
-      </motion.p>
+      
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
