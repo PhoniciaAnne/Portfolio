@@ -8,6 +8,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import iq from "./iq.jpeg";
+import pgs from "./pgs.jpg";
 import flask from "./flask.png";
 // import solidity from "./Solidity.svg";
 import matplotlib from "./matplotlib.png";
@@ -72,7 +73,7 @@ export {
   chat,
   
   
-  
+  pgs,
   logo,
   logo1,
   backend,
