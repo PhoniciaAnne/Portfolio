@@ -92,7 +92,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Backend Developer",
+    title: "Database Management",
     icon: mobile,
   },
   {
@@ -100,12 +100,12 @@ const services = [
     icon: backend,
   },
   {
-    title: "python Developer",
+    title: "Python",
     icon: python,
   },
    {
     title: "Java",
-    icon: Java,
+    icon: java,
   },
 ];
 
@@ -201,7 +201,7 @@ const experiences = [
     {
     title: "Trainee Engineer",
     company_name: "Principal Global Services",
-    icon: iq,
+    icon: pgs,
     iconBg: "#383E56",
     date: "June 2025 - Present",
     points: [
@@ -213,7 +213,7 @@ const experiences = [
     {
     title: "Software Development Intern",
     company_name: "Principal Global Services",
-    icon: iq,
+    icon:  pgs,
     iconBg: "#383E56",
     date: "Jan 2025 - June 2025",
     points: [
