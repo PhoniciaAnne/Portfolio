@@ -107,6 +107,7 @@ const services = [
     title: "Java",
     icon: java,
   },
+
 ];
 
 const technologies = [
@@ -198,7 +199,7 @@ const technologies = [
 ];
 
 const experiences = [
-    {
+   {
     title: "Trainee Engineer",
     company_name: "Principal Global Services",
     icon: pgs,
