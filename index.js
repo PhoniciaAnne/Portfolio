@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import logo1 from "./logo1.png";
 import backend from "./backend.png";
-
+import pgs from "./pgs.jpg";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -91,6 +91,7 @@ export {
   pandas,
   cooperation,
   iq,
+ pgs,
   flask,
   // solidity,
   matplotlib,
