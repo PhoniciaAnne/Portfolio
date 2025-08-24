@@ -33,6 +33,7 @@ import {
   chat,
 
   iq,
+  pgs,
   flask,
   // solidity,
   matplotlib,
