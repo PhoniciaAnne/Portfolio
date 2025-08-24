@@ -92,7 +92,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Backend Developer",
+    title: "Artificial Intelligence",
     icon: mobile,
   },
   {
@@ -102,10 +102,6 @@ const services = [
   {
     title: "python Developer",
     icon: python,
-  },
-   {
-    title: "Java",
-    icon: Java,
   },
 ];
 
@@ -198,29 +194,6 @@ const technologies = [
 ];
 
 const experiences = [
-    {
-    title: "Trainee Engineer",
-    company_name: "Principal Global Services",
-    icon: iq,
-    iconBg: "#383E56",
-    date: "June 2025 - Present",
-    points: [
-      "Built backend logic and APIs handling over 20,000+ daily requests, integrating multiple SQL databases via GraphQL.",
-      "Reduced API response latency by 25% through optimized SQL queries, improving customer experience",
-      "Designed automated test suites covering 85% of backend logic, cutting manual testing by 40% and accelerating release cycles."
-    ],
-  },
-    {
-    title: "Software Development Intern",
-    company_name: "Principal Global Services",
-    icon: iq,
-    iconBg: "#383E56",
-    date: "Jan 2025 - June 2025",
-    points: [
-      "Developed a secure Bill Payment Application using React, Spring Boot, SQL with role-based autho-rization and JWT authentication, reducing manual payment errors by 60%.",
-      "Standardized CI/CD pipelines across 15+ repositories using GitHub Actions and AWS CDK, reducing deployment time by 50% and manual effort by 70%.",
-    ],
-  },
   {
     title: "Software Engineering Intern",
     company_name: "Kairos Technologies",
